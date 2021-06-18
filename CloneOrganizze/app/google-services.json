@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31298045373",
+    "project_id": "organizze-curso",
+    "storage_bucket": "organizze-curso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31298045373:android:d9373e3e0b185d3f4afed4",
+        "android_client_info": {
+          "package_name": "com.devtechdmr.cloneorganizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31298045373-ji8e3jc6nm5ji5j457m791qoe9mknkah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JsHB2A_PVrB5LR4daMuo01t9AiR3lns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31298045373-ji8e3jc6nm5ji5j457m791qoe9mknkah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
